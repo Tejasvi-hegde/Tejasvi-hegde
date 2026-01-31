@@ -1,6 +1,5 @@
 # 💫 About Me:
-I am currently a 3rd year Computer Science Engineering student.<br>I am interested in the filed of Backend development , AIML and DSA.<br>I am currently looking for a job
-
+I am currently a 3rd year Computer Science Engineering student.<br>I am interested in the filed of Backend development , AIML and DSA.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tejasvi_tyagli) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tejasvi-hegde-0528382a7) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Tejasvi Vasant Hegde) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tejasvihegde303@gmail.com) 
